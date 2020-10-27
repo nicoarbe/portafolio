@@ -25,15 +25,19 @@ header{
     text-decoration: none;
 }
 
-.li-style{
+.li-style a{
     writing-mode: vertical-lr;
     font-weight: bold;
-    color: var(lightblue;
+    color: var(--light-blue);
     text-decoration: none;
 }
 
+.text-center{
+    color: darkblue;
+}
+
 .profile-image{
-    height: 150px;
+    height: 250px;
     border-radius: 100%;
     position: relative;
     top: -150px;
